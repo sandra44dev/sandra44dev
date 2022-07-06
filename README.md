@@ -4,7 +4,7 @@ I'm a junior front end developer currently based in Georgia. For the last couple
 
 #### Technology stack & skills:
 - HTML, CSS, SASS, BEM-naming
-- JavaScript
+- JavaScript, ESlint
 - GitHub
 - Figma
 - English: B1-B2
