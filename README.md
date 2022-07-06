@@ -7,7 +7,7 @@ I'm a junior front end developer currently based in Georgia. For the last couple
 - JavaScript, ESlint
 - GitHub
 - Figma
-- English: B1-B2
+- Languages: English B1-B2, Russian - native
 
 _Currently learning: TypeScript_
 
