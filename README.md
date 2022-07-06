@@ -8,7 +8,8 @@ I'm a junior front end developer currently based in Georgia. For the last couple
 - GitHub
 - Figma
 - English: B1-B2
-  - _Currently learning: TypeScript_
+
+_Currently learning: TypeScript_
 
 #### Contact me:
 - E-mail: sandra44dev@gmail.com
